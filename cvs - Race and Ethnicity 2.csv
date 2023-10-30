@@ -1,0 +1,128 @@
+Race and Ethnicity 2
+ID Race,Race,ID Ethnicity,Ethnicity,ID Year,Year,Hispanic Population Moe,Geography,ID Geography,Slug Geography,Population,share
+0,White Alone,0,Not Hispanic or Latino,2021,2021,2032,"Temecula, CA",16000US0678120,temecula-ca,54708,0.5001828554710360
+0,White Alone,1,Hispanic or Latino,2021,2021,1674,"Temecula, CA",16000US0678120,temecula-ca,13334,0.12190974253949700
+1,Black or African American Alone,0,Not Hispanic or Latino,2021,2021,644,"Temecula, CA",16000US0678120,temecula-ca,3414,0.031213428905792900
+1,Black or African American Alone,1,Hispanic or Latino,2021,2021,290,"Temecula, CA",16000US0678120,temecula-ca,534,0.004882241076653010
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2021,2021,137,"Temecula, CA",16000US0678120,temecula-ca,290,0.002651404330017550
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2021,2021,74,"Temecula, CA",16000US0678120,temecula-ca,131,0.0011977033352837900
+3,Asian Alone,0,Not Hispanic or Latino,2021,2021,1317,"Temecula, CA",16000US0678120,temecula-ca,11759,0.10750987419543600
+3,Asian Alone,1,Hispanic or Latino,2021,2021,161,"Temecula, CA",16000US0678120,temecula-ca,294,0.0026879754242246900
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2021,2021,330,"Temecula, CA",16000US0678120,temecula-ca,333,0.003044543592744300
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2021,2021,62,"Temecula, CA",16000US0678120,temecula-ca,56,0.0005119953188999420
+5,Some Other Race Alone,0,Not Hispanic or Latino,2021,2021,236,"Temecula, CA",16000US0678120,temecula-ca,366,0.003346255119953190
+5,Some Other Race Alone,1,Hispanic or Latino,2021,2021,1301,"Temecula, CA",16000US0678120,temecula-ca,9680,0.0885020479812756
+6,Two or More Races,0,Not Hispanic or Latino,2021,2021,1146.2691655976800,"Temecula, CA",16000US0678120,temecula-ca,5926,0.05418007606787600
+6,Two or More Races,1,Hispanic or Latino,2021,2021,1384.602831139670,"Temecula, CA",16000US0678120,temecula-ca,8551,0.0781798566413107
+0,White Alone,0,Not Hispanic or Latino,2020,2020,2208,"Temecula, CA",16000US0678120,temecula-ca,57295,0.5065109576809850
+0,White Alone,1,Hispanic or Latino,2020,2020,1648,"Temecula, CA",16000US0678120,temecula-ca,16435,0.14529204275219500
+1,Black or African American Alone,0,Not Hispanic or Latino,2020,2020,737,"Temecula, CA",16000US0678120,temecula-ca,4588,0.040559774392885200
+1,Black or African American Alone,1,Hispanic or Latino,2020,2020,381,"Temecula, CA",16000US0678120,temecula-ca,554,0.004897583917536710
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2020,2020,117.00000000000000,"Temecula, CA",16000US0678120,temecula-ca,241,0.0021305374081703000
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2020,2020,83,"Temecula, CA",16000US0678120,temecula-ca,132,0.0011669333521928600
+3,Asian Alone,0,Not Hispanic or Latino,2020,2020,1311,"Temecula, CA",16000US0678120,temecula-ca,10215,0.09030472873219760
+3,Asian Alone,1,Hispanic or Latino,2020,2020,154,"Temecula, CA",16000US0678120,temecula-ca,259,0.0022896646834693300
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2020,2020,390,"Temecula, CA",16000US0678120,temecula-ca,492,0.0043494788581734000
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2020,2020,88,"Temecula, CA",16000US0678120,temecula-ca,76,0.0006718707179292240
+5,Some Other Race Alone,0,Not Hispanic or Latino,2020,2020,212,"Temecula, CA",16000US0678120,temecula-ca,289,0.002554876808967710
+5,Some Other Race Alone,1,Hispanic or Latino,2020,2020,1645,"Temecula, CA",16000US0678120,temecula-ca,10608,0.09377900757622640
+6,Two or More Races,0,Not Hispanic or Latino,2020,2020,1094.8972554536800,"Temecula, CA",16000US0678120,temecula-ca,5923,0.052361713977563100
+6,Two or More Races,1,Hispanic or Latino,2020,2020,1357.1974801037600,"Temecula, CA",16000US0678120,temecula-ca,6010,0.05313082914150840
+0,White Alone,0,Not Hispanic or Latino,2019,2019,1836.0000000000000,"Temecula, CA",16000US0678120,temecula-ca,58835,0.5189141037740010
+0,White Alone,1,Hispanic or Latino,2019,2019,1593,"Temecula, CA",16000US0678120,temecula-ca,18313,0.16151736181547200
+1,Black or African American Alone,0,Not Hispanic or Latino,2019,2019,752,"Temecula, CA",16000US0678120,temecula-ca,4581,0.040403594958590900
+1,Black or African American Alone,1,Hispanic or Latino,2019,2019,436,"Temecula, CA",16000US0678120,temecula-ca,592,0.005221333380372370
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2019,2019,267,"Temecula, CA",16000US0678120,temecula-ca,473,0.004171774812358330
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2019,2019,100,"Temecula, CA",16000US0678120,temecula-ca,163,0.001437630643582260
+3,Asian Alone,0,Not Hispanic or Latino,2019,2019,1107,"Temecula, CA",16000US0678120,temecula-ca,10030,0.0884627935897549
+3,Asian Alone,1,Hispanic or Latino,2019,2019,198,"Temecula, CA",16000US0678120,temecula-ca,352,0.003104576604545740
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2019,2019,515,"Temecula, CA",16000US0678120,temecula-ca,588,0.005186054100775260
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2019,2019,111,"Temecula, CA",16000US0678120,temecula-ca,92,0.0008114234307335450
+5,Some Other Race Alone,0,Not Hispanic or Latino,2019,2019,266,"Temecula, CA",16000US0678120,temecula-ca,371,0.0032721531826320100
+5,Some Other Race Alone,1,Hispanic or Latino,2019,2019,1546,"Temecula, CA",16000US0678120,temecula-ca,10871,0.09588026212504740
+6,Two or More Races,0,Not Hispanic or Latino,2019,2019,780.8008709011540,"Temecula, CA",16000US0678120,temecula-ca,4807,0.04239687425582770
+6,Two or More Races,1,Hispanic or Latino,2019,2019,720.7253290956270,"Temecula, CA",16000US0678120,temecula-ca,3313,0.02922006332630690
+0,White Alone,0,Not Hispanic or Latino,2018,2018,1624,"Temecula, CA",16000US0678120,temecula-ca,59140,0.5269535774748290
+0,White Alone,1,Hispanic or Latino,2018,2018,1514,"Temecula, CA",16000US0678120,temecula-ca,18549,0.1652766639935850
+1,Black or African American Alone,0,Not Hispanic or Latino,2018,2018,820,"Temecula, CA",16000US0678120,temecula-ca,4995,0.04450681635926220
+1,Black or African American Alone,1,Hispanic or Latino,2018,2018,385,"Temecula, CA",16000US0678120,temecula-ca,680,0.006058986010870530
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2018,2018,298,"Temecula, CA",16000US0678120,temecula-ca,434,0.0038670587187026600
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2018,2018,107.00000000000000,"Temecula, CA",16000US0678120,temecula-ca,205,0.001826606076806560
+3,Asian Alone,0,Not Hispanic or Latino,2018,2018,1033,"Temecula, CA",16000US0678120,temecula-ca,9348,0.08329323710237900
+3,Asian Alone,1,Hispanic or Latino,2018,2018,155,"Temecula, CA",16000US0678120,temecula-ca,308,0.002744364251982540
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2018,2018,368,"Temecula, CA",16000US0678120,temecula-ca,526,0.004686803884879270
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2018,2018,117.00000000000000,"Temecula, CA",16000US0678120,temecula-ca,98,0.0008732068074489890
+5,Some Other Race Alone,0,Not Hispanic or Latino,2018,2018,155,"Temecula, CA",16000US0678120,temecula-ca,230,0.002049362915441500
+5,Some Other Race Alone,1,Hispanic or Latino,2018,2018,1383,"Temecula, CA",16000US0678120,temecula-ca,10210,0.09097389289851200
+6,Two or More Races,0,Not Hispanic or Latino,2018,2018,768.7522357691070,"Temecula, CA",16000US0678120,temecula-ca,4363,0.03887552347857080
+6,Two or More Races,1,Hispanic or Latino,2018,2018,674.0934653295490,"Temecula, CA",16000US0678120,temecula-ca,3144,0.02801390002673080
+0,White Alone,0,Not Hispanic or Latino,2017,2017,1675,"Temecula, CA",16000US0678120,temecula-ca,59324,0.5357923447914600
+0,White Alone,1,Hispanic or Latino,2017,2017,1555,"Temecula, CA",16000US0678120,temecula-ca,17285,0.1561117031845520
+1,Black or African American Alone,0,Not Hispanic or Latino,2017,2017,935,"Temecula, CA",16000US0678120,temecula-ca,5221,0.04715413377648530
+1,Black or African American Alone,1,Hispanic or Latino,2017,2017,271,"Temecula, CA",16000US0678120,temecula-ca,436,0.003937790141074040
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2017,2017,300,"Temecula, CA",16000US0678120,temecula-ca,442,0.003991979913657630
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2017,2017,119,"Temecula, CA",16000US0678120,temecula-ca,244,0.002203717418399230
+3,Asian Alone,0,Not Hispanic or Latino,2017,2017,957,"Temecula, CA",16000US0678120,temecula-ca,9907,0.08947634616426730
+3,Asian Alone,1,Hispanic or Latino,2017,2017,148,"Temecula, CA",16000US0678120,temecula-ca,341,0.003079785408500570
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2017,2017,219,"Temecula, CA",16000US0678120,temecula-ca,357,0.0032242914687234700
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2017,2017,102,"Temecula, CA",16000US0678120,temecula-ca,89,0.0008038149599898850
+5,Some Other Race Alone,0,Not Hispanic or Latino,2017,2017,160,"Temecula, CA",16000US0678120,temecula-ca,233,0.00210436950199599
+5,Some Other Race Alone,1,Hispanic or Latino,2017,2017,1418,"Temecula, CA",16000US0678120,temecula-ca,9041,0.08165495565470280
+6,Two or More Races,0,Not Hispanic or Latino,2017,2017,777.280515644127,"Temecula, CA",16000US0678120,temecula-ca,4705,0.04249381333429670
+6,Two or More Races,1,Hispanic or Latino,2017,2017,578.6233662755070,"Temecula, CA",16000US0678120,temecula-ca,3097,0.027970954281895200
+0,White Alone,0,Not Hispanic or Latino,2016,2016,1931,"Temecula, CA",16000US0678120,temecula-ca,59141,0.5427522598999680
+0,White Alone,1,Hispanic or Latino,2016,2016,1450,"Temecula, CA",16000US0678120,temecula-ca,17812,0.16346533290506100
+1,Black or African American Alone,0,Not Hispanic or Latino,2016,2016,735,"Temecula, CA",16000US0678120,temecula-ca,4210,0.038636259349332400
+1,Black or African American Alone,1,Hispanic or Latino,2016,2016,224,"Temecula, CA",16000US0678120,temecula-ca,370,0.003395585738539900
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2016,2016,349,"Temecula, CA",16000US0678120,temecula-ca,628,0.005763318496765020
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2016,2016,149,"Temecula, CA",16000US0678120,temecula-ca,307,0.0028174184371128300
+3,Asian Alone,0,Not Hispanic or Latino,2016,2016,1128,"Temecula, CA",16000US0678120,temecula-ca,11263,0.10336346533290500
+3,Asian Alone,1,Hispanic or Latino,2016,2016,185,"Temecula, CA",16000US0678120,temecula-ca,337,0.0030927361996971500
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2016,2016,131,"Temecula, CA",16000US0678120,temecula-ca,221,0.0020281741843711300
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2016,2016,84,"Temecula, CA",16000US0678120,temecula-ca,59,0.0005414582664158220
+5,Some Other Race Alone,0,Not Hispanic or Latino,2016,2016,141,"Temecula, CA",16000US0678120,temecula-ca,226,0.002074060478135180
+5,Some Other Race Alone,1,Hispanic or Latino,2016,2016,1223,"Temecula, CA",16000US0678120,temecula-ca,6975,0.06401137980085350
+6,Two or More Races,0,Not Hispanic or Latino,2016,2016,861.6693101184470,"Temecula, CA",16000US0678120,temecula-ca,4859,0.04459230027990640
+6,Two or More Races,1,Hispanic or Latino,2016,2016,527.287397915027,"Temecula, CA",16000US0678120,temecula-ca,2557,0.02346625063093650
+0,White Alone,0,Not Hispanic or Latino,2015,2015,1556,"Temecula, CA",16000US0678120,temecula-ca,59652,0.5566992991330150
+0,White Alone,1,Hispanic or Latino,2015,2015,1288,"Temecula, CA",16000US0678120,temecula-ca,18343,0.17118512780790100
+1,Black or African American Alone,0,Not Hispanic or Latino,2015,2015,564,"Temecula, CA",16000US0678120,temecula-ca,3098,0.028911929670657800
+1,Black or African American Alone,1,Hispanic or Latino,2015,2015,360,"Temecula, CA",16000US0678120,temecula-ca,575,0.0053661586703125400
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2015,2015,587,"Temecula, CA",16000US0678120,temecula-ca,1208,0.011273599432587000
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2015,2015,162,"Temecula, CA",16000US0678120,temecula-ca,327,0.00305171110468209
+3,Asian Alone,0,Not Hispanic or Latino,2015,2015,1098,"Temecula, CA",16000US0678120,temecula-ca,10822,0.10099577240021300
+3,Asian Alone,1,Hispanic or Latino,2015,2015,161,"Temecula, CA",16000US0678120,temecula-ca,262,0.0024451018636902400
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2015,2015,194,"Temecula, CA",16000US0678120,temecula-ca,413,0.0038543017927636200
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2015,2015,44,"Temecula, CA",16000US0678120,temecula-ca,30,0.0002799734958423940
+5,Some Other Race Alone,0,Not Hispanic or Latino,2015,2015,185,"Temecula, CA",16000US0678120,temecula-ca,291,0.002715742909671220
+5,Some Other Race Alone,1,Hispanic or Latino,2015,2015,1125,"Temecula, CA",16000US0678120,temecula-ca,5372,0.050133920655511300
+6,Two or More Races,0,Not Hispanic or Latino,2015,2015,733.9162077512660,"Temecula, CA",16000US0678120,temecula-ca,4423,0.04127742573703020
+6,Two or More Races,1,Hispanic or Latino,2015,2015,526.1653732430520,"Temecula, CA",16000US0678120,temecula-ca,2337,0.02180993532612250
+0,White Alone,0,Not Hispanic or Latino,2014,2014,1578,"Temecula, CA",16000US0678120,temecula-ca,59679,0.5686151207660430
+0,White Alone,1,Hispanic or Latino,2014,2014,1339,"Temecula, CA",16000US0678120,temecula-ca,16659,0.15872516792911200
+1,Black or African American Alone,0,Not Hispanic or Latino,2014,2014,555,"Temecula, CA",16000US0678120,temecula-ca,3131,0.029831832690200600
+1,Black or African American Alone,1,Hispanic or Latino,2014,2014,244,"Temecula, CA",16000US0678120,temecula-ca,401,0.003820685055499980
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2014,2014,658,"Temecula, CA",16000US0678120,temecula-ca,1372,0.01307226906769570
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2014,2014,293,"Temecula, CA",16000US0678120,temecula-ca,488,0.0046496117383640600
+3,Asian Alone,0,Not Hispanic or Latino,2014,2014,1198,"Temecula, CA",16000US0678120,temecula-ca,10419,0.099271116192654
+3,Asian Alone,1,Hispanic or Latino,2014,2014,190,"Temecula, CA",16000US0678120,temecula-ca,321,0.0030584536229812800
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2014,2014,198,"Temecula, CA",16000US0678120,temecula-ca,404,0.0038492687342194300
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2014,2014,41,"Temecula, CA",16000US0678120,temecula-ca,27,0.00025725310847506100
+5,Some Other Race Alone,0,Not Hispanic or Latino,2014,2014,155,"Temecula, CA",16000US0678120,temecula-ca,262,0.0024963079414987400
+5,Some Other Race Alone,1,Hispanic or Latino,2014,2014,1189,"Temecula, CA",16000US0678120,temecula-ca,5147,0.04904006478967180
+6,Two or More Races,0,Not Hispanic or Latino,2014,2014,711.2081270626770,"Temecula, CA",16000US0678120,temecula-ca,4380,0.04173217093039870
+6,Two or More Races,1,Hispanic or Latino,2014,2014,507.30365660026500,"Temecula, CA",16000US0678120,temecula-ca,2265,0.02158067743318570
+0,White Alone,0,Not Hispanic or Latino,2013,2013,1661,"Temecula, CA",16000US0678120,temecula-ca,56506,0.550713902831246
+0,White Alone,1,Hispanic or Latino,2013,2013,1390,"Temecula, CA",16000US0678120,temecula-ca,16810,0.16383217192144600
+1,Black or African American Alone,0,Not Hispanic or Latino,2013,2013,664,"Temecula, CA",16000US0678120,temecula-ca,3606,0.03514448613615320
+1,Black or African American Alone,1,Hispanic or Latino,2013,2013,252.00000000000000,"Temecula, CA",16000US0678120,temecula-ca,364,0.0035475854003216200
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2013,2013,739,"Temecula, CA",16000US0678120,temecula-ca,1678,0.01635397885093320
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2013,2013,291,"Temecula, CA",16000US0678120,temecula-ca,615,0.005993859948345600
+3,Asian Alone,0,Not Hispanic or Latino,2013,2013,1118,"Temecula, CA",16000US0678120,temecula-ca,9673,0.09427415817942600
+3,Asian Alone,1,Hispanic or Latino,2013,2013,190,"Temecula, CA",16000US0678120,temecula-ca,291,0.002836119097509870
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2013,2013,204,"Temecula, CA",16000US0678120,temecula-ca,386,0.0037619999025388600
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2013,2013,46,"Temecula, CA",16000US0678120,temecula-ca,38,0.0003703523220115980
+5,Some Other Race Alone,0,Not Hispanic or Latino,2013,2013,200,"Temecula, CA",16000US0678120,temecula-ca,246,0.002397543979338240
+5,Some Other Race Alone,1,Hispanic or Latino,2013,2013,1022.0000000000000,"Temecula, CA",16000US0678120,temecula-ca,5097,0.04967594171823990
+6,Two or More Races,0,Not Hispanic or Latino,2013,2013,905.8747153994310,"Temecula, CA",16000US0678120,temecula-ca,4959,0.04833097802251350
+6,Two or More Races,1,Hispanic or Latino,2013,2013,534.6045267298060,"Temecula, CA",16000US0678120,temecula-ca,2336,0.02276692168997610
